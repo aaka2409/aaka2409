@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaka2409" alt="aaka2409" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aakash41097683" target="blank"><img src="https://img.shields.io/twitter/follow/aakash41097683?logo=twitter&style=for-the-badge" alt="aakash41097683" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 - 👨‍💻 All of my projects are available at [https://aakash-24portfolio.netlify.app/](https://aakash-24portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://gfghmritm.000webhostapp.com/posts.php](https://gfghmritm.000webhostapp.com/posts.php)
