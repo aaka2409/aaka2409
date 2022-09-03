@@ -1,4 +1,4 @@
-[![MasterHead ]([https://i.makeagif.com/media/6-29-2022/9OlCZe.gif](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif)](https://aaka2409.github.io)
+[![MasterHead ](https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif)](https://aaka2409.github.io)
 <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">A passionate frontend developer an Software Developer from India</h3>
 
