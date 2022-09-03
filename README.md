@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaka2409" alt="aaka2409" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/aakash41097683" target="blank"><img src="https://img.shields.io/twitter/follow/aakash41097683?logo=twitter&style=for-the-badge" alt="aakash41097683" /></a> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif](https://dribbble.com/shots/14247776-Coding?utm_source=Clipboard_Shot&utm_campaign=dmitrymoi&utm_content=Coding&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=dmitrymoi&utm_content=Coding&utm_medium=Social_Share)">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU">
 - 👨‍💻 All of my projects are available at [https://aakash-24portfolio.netlify.app/](https://aakash-24portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://gfghmritm.000webhostapp.com/posts.php](https://gfghmritm.000webhostapp.com/posts.php)
